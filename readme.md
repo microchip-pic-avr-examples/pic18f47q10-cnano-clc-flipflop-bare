@@ -44,17 +44,16 @@ The following configurations must be made for this project:
 - CLC3 is set up as AND-OR: used as 2 input OR
 
 I/O configurations:
-|Pin           | Configuration      |
 
-| :----------: | :----------------: |
+|:Pin-------:|:Configuration---:|
 
-|RA2           | Digital Output     |
+|:RA2-------:|:Digital Output--:|
 
-|RA3           | Digital Output     |
+|:RA3-------:|:Digital Output--:|
 
-|RB3           | Digital Output     |
+|:RB3-------:|:Digital Output--:|
 
-|RB0           | Digital Output     |
+|:RB0-------:|:Digital Output--:|
 
 
 This setup will create an internal connection as depicted:
