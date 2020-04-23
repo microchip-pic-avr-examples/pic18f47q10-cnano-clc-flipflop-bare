@@ -45,10 +45,15 @@ The following configurations must be made for this project:
 
 I/O configurations:
 |Pin           | Configuration      |
+
 | :----------: | :----------------: |
+
 |RA2           | Digital Output     |
+
 |RA3           | Digital Output     |
+
 |RB3           | Digital Output     |
+
 |RB0           | Digital Output     |
 
 
