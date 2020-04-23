@@ -45,7 +45,7 @@ The following configurations must be made for this project:
 
 I/O configurations:
 
-|:Pin-------:|:Configuration---:|
+|:PIN-------:|:Configuration---:|
 
 |:RA2-------:|:Digital Output--:|
 
