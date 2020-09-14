@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-clc-flipflop-bare",
         "version": "1.0.4",
-        "displayName": "Getting started with the CLC on PIC18 -> Using CLCs to Create a Data Signal Modulator",
+        "displayName": "Using CLCs to Create a Data Signal Modulator",
         "projectName": "pic18f47q10-cnano-clc-flipflop-bare",
         "shortDescription": "This example shows an initialization of the CLC in the JK flip-flop with R mode and AND-OR mode, that enables the implementation of a Data Signal Modulator (DSM) with timings controlled from the CCP peripheral.",
         "ide": {
@@ -41,19 +41,10 @@
             "Peripherals",
             [
                "Peripherals", "CLC"
-            ],
-            [
-               "Peripherals", "CCP"
-            ],
-            [
-               "Peripherals", "TIMER", "TMR2"
-            ],
-            [
-               "Peripherals", "PPS"
-            ]            			
+            ]           			
         ],
         "peripherals": [
-            "CLC", "CCP", "TIMER", "TMR2", "PPS"
+            "CLC"
         ],
         "keywords": [
             "Logic Function",
